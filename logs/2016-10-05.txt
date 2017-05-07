@@ -1,0 +1,9 @@
+[05-Oct-2016 12:57:06 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route match.'
+Stack trace: #0 C:\xampp\htdocs\mvc\public\index.php(25): Core\Router->dispatch('projectlar')
+#1 {main}
+Thrown in: C:\xampp\htdocs\mvc\Core\Router.php'on line: 60
+
+[05-Oct-2016 13:08:53 Europe/Berlin] Uncaught exception: 'Exception' with message 'No route match.'
+Stack trace: #0 C:\xampp\htdocs\mvc\public\index.php(25): Core\Router->dispatch('projectlar')
+#1 {main}
+Thrown in: C:\xampp\htdocs\mvc\Core\Router.php'on line: 60
